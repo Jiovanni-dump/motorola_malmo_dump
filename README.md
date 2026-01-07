@@ -1,0 +1,14 @@
+# user 15 UUOS34HV-V1-ST11.1 132c31 release-keys
+- manufacturer: motorola
+- platform: blair
+- codename: malmo
+- flavor: user
+- release: 15
+- id: UUOS34HV-V1-ST11.1
+- incremental: 132c31
+- tags: release-keys
+- fingerprint: motorola/malmo_g/malmo:14/UUOS34HV-V1-ST11.1/132c31:user/release-keys
+- is_ab: true
+- brand: motorola
+- branch: user-15-UUOS34HV-V1-ST11.1-132c31-release-keys
+- repo: motorola_malmo_dump

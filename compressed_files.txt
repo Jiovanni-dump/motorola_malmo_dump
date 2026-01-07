@@ -1,0 +1,12 @@
+recovery.img.xz
+product/app/Maps/Maps.apk.xz
+product/app/YouTube/YouTube.apk.xz
+product/app/Photos/Photos.apk.xz
+product/app/Gmail2/Gmail2.apk.xz
+product/app/TrichromeLibrary64/TrichromeLibrary64.apk.xz
+product/priv-app/GmsCore/GmsCore.apk.xz
+product/priv-app/Messages/Messages.apk.xz
+vendor/etc/camera/vidhance.lic.xz
+product/priv-app/MotCamera4/MotCamera4.apk.xz
+product/priv-app/Velvet/Velvet.apk.xz
+vendor_dlkm/lib/modules/qca_cld3_wlan.ko.xz
