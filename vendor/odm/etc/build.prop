@@ -1,0 +1,31 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=motorola
+ro.product.odm.device=malmo
+ro.product.odm.manufacturer=motorola
+ro.product.odm.model=moto g85 5G
+ro.product.odm.name=malmo_g
+ro.odm.product.cpu.abilist=arm64-v8a
+ro.odm.product.cpu.abilist32=
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Mon Sep 29 05:03:19 CDT 2025
+ro.odm.build.date.utc=1759140199
+ro.odm.build.fingerprint=motorola/malmo_g/malmo:14/UUOS34HV-V1-ST11.1/132c31:user/release-keys
+ro.odm.build.id=UUOS34HV-V1-ST11.1
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=132c31
+ro.odm.build.version.release=14
+ro.odm.build.version.release_or_codename=14
+ro.odm.build.version.sdk=34
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+ro.vendor.qti.va_odm.support=1
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# end of file
+
